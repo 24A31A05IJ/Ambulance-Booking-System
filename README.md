@@ -14,7 +14,7 @@ Click the badge to download the latest debug APK directly from this repository:
 
 Direct raw link: https://github.com/VenkataRatnamOleti/Ambulance-Booking-System/raw/main/output/app-debug.apk
 
-Note: If you host releases, replace the link above with your release asset for a stable download.
+Note: If you host releases, replace the link above with your release asset for a stable download. 
 
 Documentation: [DOCS.md](DOCS.md) — detailed project documentation and developer notes.
 
